@@ -2,12 +2,13 @@
 
 ### 규칙
 
-> 대충내용꾸며봅시다
->
+> *** 내용꾸며봅시다 ***
 > FileName: [Git ID]\_[사이트 이름]\_[문제번호].[확장자]
 >
 > 예시: **kiryanchi_programmers_1234.cpp**
-
+>
+>  코드의 문서화 할것 ex) 코드파일 상단에 주석으로 코드명, 작성일, 작성자, 문제명 적기!
+>
 - 2021 - 01 - week01
 
   - 주제: [해시](https://programmers.co.kr/learn/courses/30/parts/12077)
