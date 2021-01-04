@@ -8,6 +8,8 @@
 > 예시: **kiryanchi_programmers_1234.cpp**
 >
 > 코드의 문서화 할것 ex) 코드파일 상단에 주석으로 코드명, 작성일, 작성자, 문제명 적기!
+>
+> 커밋할 때 [Git ID]\_[week00]\_[문제번호] ex) mingiSeo_week01_42576
 
 - 2021 - 01 - week01
 
