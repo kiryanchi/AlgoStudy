@@ -19,3 +19,10 @@
     - [Level 2 | 전화번호 목록(42577)](https://programmers.co.kr/learn/courses/30/lessons/42577)
     - [Level 2 | 위장(42578)](https://programmers.co.kr/learn/courses/30/lessons/42578)
     - [Level 3 | 베스트앨범(42579)](https://programmers.co.kr/learn/courses/30/lessons/42579)
+
+- 2021 - 01 - week02
+
+  - [Level 1 | 크레인 인형뽑기(64061)](https://programmers.co.kr/learn/courses/30/lessons/64061)
+  - [Level 1 | 약수의 합(12928)](https://programmers.co.kr/learn/courses/30/lessons/12928)
+  - [Level 1 | 키패드 누르기(67256)](https://programmers.co.kr/learn/courses/30/lessons/67256)
+  - [Level 1 | 예산(12982)](https://programmers.co.kr/learn/courses/30/lessons/12982)
