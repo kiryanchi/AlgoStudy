@@ -1,4 +1,3 @@
-package mingiSeo_programmers;
 // 코드명 : AlgoStudy 2021 프로그래머스 해시 level 2 (score : 100/100)
 // 작성자 : 서민기
 // 문제명 : 위장

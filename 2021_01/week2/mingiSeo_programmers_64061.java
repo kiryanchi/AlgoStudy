@@ -1,5 +1,3 @@
-package mingiSeo_programmers;
-
 // 코드명 : AlgoStudy 2021 프로그래머스 level 1 (score : 100/100)
 // 작성자 : 서민기
 // 문제명 : 크레인 인형뽑기

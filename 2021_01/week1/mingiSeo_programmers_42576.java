@@ -1,4 +1,3 @@
-package mingiSeo_programmers_01;
 // 코드명 : AlgoStudy 2021 프로그래머스 해시 level 1 (score : 50/50)
 // 작성자 : 서민기
 // 문제명 : 완주하지 못 한 선수
@@ -7,7 +6,7 @@ package mingiSeo_programmers_01;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class programmers {
+class programmers {
     public static void main(String[] args) {
         String[] participant = {"marina", "josipa", "nikola","vinko","filipa"};
         String[] completion = {"josipa", "filipa","marina","nikola"};
