@@ -34,3 +34,9 @@
   - [Level 1 | 실패율(42889)](https://programmers.co.kr/learn/courses/30/lessons/42889)
   - [Level 2 | 캐시(17680)](https://programmers.co.kr/learn/courses/30/lessons/17680)
 
+- 2021 - 02 - week01
+
+  - [Level 1 | 실패율(42889)](https://programmers.co.kr/learn/courses/30/lessons/42889)
+  - [Level 2 | 캐시(17680)](https://programmers.co.kr/learn/courses/30/lessons/17680)
+  - [Level 1 | 예산](https://programmers.co.kr/learn/courses/30/lessons/1298)
+  - [Level 1 | 같은 문제는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
