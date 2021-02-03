@@ -27,7 +27,7 @@
   - [Level 1 | 키패드 누르기(67256)](https://programmers.co.kr/learn/courses/30/lessons/67256)
   - [Level 1 | 예산(12982)](https://programmers.co.kr/learn/courses/30/lessons/12982)
 
-- 2021 - 01 - week03
+- 2021 - 01 - week03, 4
 
   - [Level 1 | [1차] 비밀지도(17681)](https://programmers.co.kr/learn/courses/30/lessons/17681)
   - [Level 1 | [1차] 다트 게임(17682)](https://programmers.co.kr/learn/courses/30/lessons/17682)
@@ -36,7 +36,8 @@
 
 - 2021 - 02 - week01
 
-  - [Level 1 | 실패율(42889)](https://programmers.co.kr/learn/courses/30/lessons/42889)
-  - [Level 2 | 캐시(17680)](https://programmers.co.kr/learn/courses/30/lessons/17680)
-  - [Level 1 | 예산](https://programmers.co.kr/learn/courses/30/lessons/1298)
-  - [Level 1 | 같은 문제는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
+  - [Level 1 | 실패율(42889)<이월>](https://programmers.co.kr/learn/courses/30/lessons/42889)
+  - [Level 2 | 캐시(17680)<이월>](https://programmers.co.kr/learn/courses/30/lessons/17680)
+  - [Level 1 | 예산(12982)](https://programmers.co.kr/learn/courses/30/lessons/12982)
+  - [Level 1 | 같은 문제는 싫어(12906)](https://programmers.co.kr/learn/courses/30/lessons/12906)
+  - [Level 1 | 신규 아이디 추천(72410)](https://programmers.co.kr/learn/courses/30/lessons/72410)
