@@ -11,7 +11,7 @@ def solution(phone_book):
     # 해시테이블 채우기
     for num in phone_book:
         hashTable[num] = 1
-    
+
     # 한글자씩 추가해 해시테이블과 비교
     for num in phone_book:
         tmp = ""
@@ -19,8 +19,9 @@ def solution(phone_book):
             tmp += char
             if tmp in hashTable and tmp != num:
                 answer = False
-    return answe교
+    return answer
 
 # 소감
-# 
+#
 # 해시를 어거지로 쓴 느낌이라 살짝 아쉽다. 해쉬를 사용하는 다른 좋은 방법은 없을까?
+
