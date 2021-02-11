@@ -35,10 +35,16 @@
   - [Level 1 | 실패율(42889)](https://programmers.co.kr/learn/courses/30/lessons/42889)
   - [Level 2 | 캐시(17680)](https://programmers.co.kr/learn/courses/30/lessons/17680)
 
-- 2021 - 02 - week01
+- 2021 - 02 - week01, 2
 
   - [Level 1 | 실패율(42889)<이월>](https://programmers.co.kr/learn/courses/30/lessons/42889)
   - [Level 2 | 캐시(17680)<이월>](https://programmers.co.kr/learn/courses/30/lessons/17680)
   - [Level 1 | 예산(12982)](https://programmers.co.kr/learn/courses/30/lessons/12982)
   - [Level 1 | 같은 문제는 싫어(12906)](https://programmers.co.kr/learn/courses/30/lessons/12906)
-  - [Level 1 | 신규 아이디 추천(72410)](https://programmers.co.kr/learn/courses/30/lessons/72410)
+
+- 2021 - 02 - week03
+
+  - [Level 2 | 메뉴 리뉴얼(72411)](https://programmers.co.kr/learn/courses/30/lessons/72411)
+  - [Level 2 | 순위 검색(72412)](https://programmers.co.kr/learn/courses/30/lessons/72412)
+  - [Level 1 | 체육복(42862)](https://programmers.co.kr/learn/courses/30/lessons/42862)
+  - [Level 1 | 신규 아이디 추천(72410)<이월>](https://programmers.co.kr/learn/courses/30/lessons/72410)
