@@ -18,7 +18,7 @@ int main() {
     
     while (number > 0) {
         used[number % 10]++;
-        number = number / 10;
+        number /= 10;
     }
     
     for (int i = 0; i < 10; i++) {
