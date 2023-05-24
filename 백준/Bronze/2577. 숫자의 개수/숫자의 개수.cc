@@ -1,27 +1,22 @@
-// #include <bits/stdc++.h>
-#include <iostream>
-
-using namespace std;
-
-int used[10];
+#include <stdio.h>
 
 int main() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    
     int a, b, c;
-    cin >> a;
-    cin >> b;
-    cin >> c;
-    
-    int number = a * b * c;
-    
-    while (number > 0) {
-        used[number % 10]++;
-        number /= 10;
+    scanf("%d\n%d\n%d", &a, &b, &c);
+
+    int result = a * b * c;
+
+    int count[10] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+
+    while (result > 0) {
+        count[result % 10]++;
+
+        result = result / 10;
     }
-    
+
     for (int i = 0; i < 10; i++) {
-        cout << used[i] << '\n';
+        printf("%d\n", count[i]);
     }
+
+    return 0;
 }
